@@ -1,1 +1,1 @@
-# spring-datacomposite-key
+# spring-data-composite-key
